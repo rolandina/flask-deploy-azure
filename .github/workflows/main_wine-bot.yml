@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'wine-bot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95D73E1B8A7E4EDDBC02A0E9171DBF4C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07CC4E65C1FD4CB09B80280596E0C3C4 }}
